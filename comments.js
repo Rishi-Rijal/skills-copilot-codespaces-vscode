@@ -1,4 +1,4 @@
-//Create a web server
+// Create web server
 import express from "express"; // Node 18+ / ESM. If using CommonJS use require instead.
 import path from "path";
 import { fileURLToPath } from "url";
